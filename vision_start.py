@@ -11,7 +11,7 @@ ws.geometry(str(weight) + 'x' + str(height))
 
 
 label = tk.Label(
-    text="Программа создания отчетов BINANCE от Дмитрия Крылосова" + "\nНажмите чтобы сделать предсказание ",
+    text="Программа создания отчетов BINANCE от Дмитрия Крылосова",
     foreground="yellow",  # Устанавливает белый текст
     background="black",  # Устанавливает черный фон
     width=50,
